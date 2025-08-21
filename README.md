@@ -41,7 +41,7 @@ Inside the project folder, execute the script **install.sh** and follow all the 
 # ./install.sh
 # su - zextras
 $ cmbackup -v
-  cmbackup version: 1.2.6
+  cmbackup version: 1.2.9
 ```
 
 Usage
