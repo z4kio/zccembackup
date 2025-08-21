@@ -3,6 +3,7 @@
 This script is forked from [anahuac.eu/from-zmbackup-to-cmbackup](https://www.anahuac.eu/from-zmbackup-to-cmbackup/)
 
 Tested on Latest Zextras Carbonio CE 25.6.1
+
 =========
 
 For many many years Luca’s [zmbackup](https://github.com/lucascbeyeler/zmbackup) saved our lives and souls with his Free Software zmbackup implementation. So, let me start congratulating and thanking him deeply. Zmbackup have all needed functions to backup and restore Zimbra’s mailboxes fully and incremental.
@@ -12,7 +13,7 @@ Fixing command paths in the code and adding a minor change to prevent timeout in
 
 
 
-[![Carbonio CE Version](https://img.shields.io/badge/Zimbra%20OSE-25.6.1-orange.svg)](https://zextras.com/carbonio-community-edition)
+[![Carbonio CE Version](https://img.shields.io/badge/Carbonio%20CE-25.6.1-orange.svg)](https://zextras.com/carbonio-community-edition)
 ![Linux Distro](https://img.shields.io/badge/platform-CentOS%20%7C%20Red%20Hat%20%7C%20Ubuntu-blue.svg)
 ![Branch](https://img.shields.io/badge/Branch-Stable-green.svg)
 ![Release](https://img.shields.io/badge/Release-1.2.9-green.svg)
