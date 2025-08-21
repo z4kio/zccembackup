@@ -1,6 +1,6 @@
 # zccembackup - Autometic Backup and Google Cloud Upload Script for Zextras Carbonio CE
 
-“This script is forked from [Anahuac](anahuac.eu/from-zmbackup-to-cmbackup)
+“This script is forked from anahuac.eu/from-zmbackup-to-cmbackup.”
 
 =========
 
