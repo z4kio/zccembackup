@@ -14,7 +14,7 @@ Fixing command paths in the code and adding a minor change to prevent timeout in
 
 
 [![Carbonio CE Version](https://img.shields.io/badge/Carbonio%20CE-25.6.1-orange.svg)](https://zextras.com/carbonio-community-edition)
-![Linux Distro](https://img.shields.io/badge/platform-CentOS%20%7C%20Red%20Hat%20%7C%20Ubuntu-blue.svg)
+![Linux Distro](https://img.shields.io/badge/Platform-CentOS%20%7C%20Red%20Hat%20%7C%20Ubuntu-blue.svg)
 ![Branch](https://img.shields.io/badge/Branch-Stable-green.svg)
 ![Release](https://img.shields.io/badge/Release-1.2.9-green.svg)
 
