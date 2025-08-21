@@ -1,2 +1,2 @@
 # zccembackup
-Zextras Carbonio CE Automated backup and old file cleanup script
+Zextras Carbonio CE Automated backup and upload to google drive script
