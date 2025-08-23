@@ -1,6 +1,6 @@
 # Full & Distlist backup compression and Google Drive upload also remove old backup file from google drive
 # Runs every day at 03:30 AM
-# Upload the file to /usr/local/bin/
+# Upload the upload.sh bash file to /usr/local/bin/
 # Edit crontab -e
 # List crontab -l
 
